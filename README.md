@@ -4,6 +4,10 @@ A new Flutter project.
 
 Referensi aplikasi: https://play.google.com/store/apps/details?id=com.splendapps.splendo
 
+## Screenshot
+
+<img src="screenshots/tambah_tugas.png" alt="Halaman Tugas - Tambah Tugas" width="300">
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
