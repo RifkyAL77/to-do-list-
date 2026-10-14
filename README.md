@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+Referensi aplikasi: https://play.google.com/store/apps/details?id=com.splendapps.splendo
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
